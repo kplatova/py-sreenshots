@@ -1,3 +1,5 @@
 /screenshots
 /screenshots/*
+/input_file
+/input_file/*
 .DS_Store

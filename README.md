@@ -1,7 +1,7 @@
 Скриншот полной страницы сайтов из файла
 =============
 
-Description
+Описание
 -----------
 A simple script to screenshot a list of websites, based on the [`url-to-image`](https://github.com/kimmobrunfeldt/url-to-image/) phantomjs script.
 
